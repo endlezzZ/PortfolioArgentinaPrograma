@@ -1,0 +1,9 @@
+.transparentito{
+    background: rgba(13, 110, 253, 0.20);
+}
+
+.formulito{
+    background: rgba(13, 110, 253, 0.50);
+}
+
+::placeholder { color: white; }
